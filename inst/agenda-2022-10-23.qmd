@@ -1,0 +1,13 @@
+---
+title: "DS^3 2022-10-23"
+format: html
+---
+
+0. Thursday class.
+1. Review of R our `bis620.2022` package.
+2. A look at an accelerometry data set synthesized from UKBiobank.
+3. Adding data to an R package.
+4. Adding 2 features to an R package.
+    - Visualizing accelerometry.
+    - Creating a spectral signature.
+5. Testing
