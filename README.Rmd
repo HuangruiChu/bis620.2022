@@ -1,6 +1,5 @@
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/HuangruiChu/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/HuangruiChu/bis620.2022/actions/workflows/R-CMD-check.yaml)
-[![R-CMD-checkstandard](https://github.com/HuangruiChu/bis620.2022/actions/workflows/R-CMD-checkstandard.yaml/badge.svg)](https://github.com/HuangruiChu/bis620.2022/actions/workflows/R-CMD-checkstandard.yaml)
 <!-- badges: end -->
 1. Add a README.Rmd file with 
     1. (1 point) A short description of the package and its usage.
