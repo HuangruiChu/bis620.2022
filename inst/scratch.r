@@ -8,7 +8,7 @@ document()
 
 data(ukb_accel)
 
-dt = first(ukb_accel$time)
+dt <- first(ukb_accel$time)
 
 ukb_accel |>
   filter(time >= dt  & time < dt + minutes(5)) |>
@@ -19,8 +19,7 @@ ukb_accel |>
     ylab("Acceleration (in gravities)")
 
 ukb_accel |>
-  filter(time >= dt & time < dt + minutes(5) ) |>
+  filter(time >= dt & time < dt + minutes(5)) |>
   spectral_signature(take_log = FALSE) |>
  # filter(freq <= 10) |>
   accel_plot()
-

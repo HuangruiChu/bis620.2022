@@ -11,4 +11,3 @@ library(vdiffr)
 library(bis620.2022)
 
 test_check("bis620.2022")
-
