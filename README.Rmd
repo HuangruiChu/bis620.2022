@@ -26,5 +26,5 @@ A badge indicating if the build was successful.
 # A short description of the package and its usage.
 
 
-# A link to the coverage page and lint results.
+# A link to the coverage page
 to be done.
