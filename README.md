@@ -2,7 +2,8 @@
 
 # BIS620.2022
 
-A badge indicating if the build was successful. <!-- badges: start -->
+<!-- badges: start -->
+
 [![R-CMD-check](https://github.com/HuangruiChu/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/HuangruiChu/bis620.2022/actions/workflows/R-CMD-check.yaml)
 [![Test
 coverage](https://github.com/HuangruiChu/bis620.2022/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/HuangruiChu/bis620.2022/actions/workflows/test-coverage.yaml)
@@ -10,6 +11,12 @@ coverage](https://github.com/HuangruiChu/bis620.2022/actions/workflows/test-cove
 
 # A short description of the package and its usage.
 
-# A link to the coverage page
-
-to be done.
+This is a GitHub package, for R documents, it includes data. R, global.
+R, hello. R, plot. R, and spectral. Thus, the input data set can be
+viewed, plotted, spectral, and other processing. The purpose of this
+Package is to perform data viewing and data processing on the input
+data, so that those who use it can have an intuitive knowledge of the
+data, thus facilitating the next step of analysis and modeling. At the
+same time, due to its simple and clear structure, the Package is easy to
+modify and extend, providing a very free tool for researchers who need
+to process data.
