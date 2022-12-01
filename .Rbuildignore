@@ -6,3 +6,5 @@
 ^.Rhistory$
 ^.Rproj.user$
 ^\.github$
+^doc$
+^Meta$
