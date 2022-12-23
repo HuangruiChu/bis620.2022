@@ -6,7 +6,7 @@ library(ggplot2)
 document()
 document()
 
-data(ukb_accel)
+data(zero_covid)
 
 dt <- first(ukb_accel$time)
 
